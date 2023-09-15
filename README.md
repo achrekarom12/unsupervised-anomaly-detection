@@ -1,2 +1,2 @@
-# unsupervised-anomaly-detection
-Unsupervised Anomaly Detection using ML
+# Unsupervised Anomaly Detection using ML
+Aim: This project aims to develop an effective unsupervised anomaly detection model using machine learning techniques for time-series data analysis. Leveraging the Numenta Anomaly Benchmark (NAB) dataset, the goal is to create a model that accurately identifies anomalies within various real-world and artificial time-series data, ultimately enhancing our ability to detect unusual patterns and events.
